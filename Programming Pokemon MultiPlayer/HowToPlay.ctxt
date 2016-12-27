@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HowToPlay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HowToPlay\ here.\r\n\ \r\n\ @author\ Nitinkumar\ Gove\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=HowToPlay()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ HowToPlay.\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Message
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Message\ here.\r\n\ \r\n\ @author\ Nitinkumar\ Gove\r\n\ @version\ 1.0\r\n
+comment1.params=m\ size
+comment1.target=Message(java.lang.String,\ int)
+comment2.params=m
+comment2.target=void\ initialize(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getMessage()
+comment4.params=
+comment4.target=void\ act()
+numComments=5

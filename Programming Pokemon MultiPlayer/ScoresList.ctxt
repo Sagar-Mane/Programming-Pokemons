@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ScoresList
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ScoresList\ here.\r\n\ \r\n\ @author\ Sagar\ Mane\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=ScoresList()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ScoresList.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=playerScore
+comment3.target=void\ updateMax(com.game.engine.model.PlayerScore)
+numComments=4

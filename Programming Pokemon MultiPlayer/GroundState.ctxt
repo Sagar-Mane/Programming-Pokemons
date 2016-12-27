@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GroundState
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GroundState\ here.\r\n\ \r\n\ @author\ Sushant\ Vairagade\ \r\n\ @version\ 2016-11-18\r\n
+comment1.params=actor
+comment1.target=GroundState(MovableActor)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GroundState\r\n
+comment2.params=
+comment2.target=void\ move()
+numComments=3

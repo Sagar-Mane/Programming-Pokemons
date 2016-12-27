@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Name
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Name\ here.\r\n\ @author\ Nitinkumar\ Gove\r\n\ @version\ 3.0\r\n
+comment1.params=
+comment1.target=Name()
+comment2.params=
+comment2.target=void\ drawButtons()
+comment3.params=
+comment3.target=void\ act()
+numComments=4

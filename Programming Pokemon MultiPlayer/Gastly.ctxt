@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gastly
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gastly\ here.\r\n\ \r\n\ @author\ Nitinkumar\ Gove\r\n\ @version\ V1.1\r\n
+comment1.params=
+comment1.target=void\ setAvatar()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Gastly\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ move()
+numComments=4
